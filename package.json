@@ -1,0 +1,16 @@
+{
+  "name": "testnet-token-dapp-hosting",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:K9-Finance-DAO/testnet-token-dapp-hosting.git",
+  "author": "Shima <shima@shib.army>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "gh-pages": "^6.1.1"
+  },
+  "scripts": {
+    "predeploy": "./update_build.sh",
+    "deploy": "gh-pages -d docs"
+  }
+}

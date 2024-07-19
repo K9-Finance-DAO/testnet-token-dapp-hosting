@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.46961403.css",
+    "main.js": "/static/js/main.2e204a9d.js",
+    "static/js/171.56f54811.chunk.js": "/static/js/171.56f54811.chunk.js",
+    "static/js/126.013249a0.chunk.js": "/static/js/126.013249a0.chunk.js",
+    "static/media/KNINE-token.png": "/static/media/KNINE-token.88597c0834909244b7a2.png",
+    "static/media/esKNINE-token.png": "/static/media/esKNINE-token.9d07040691abae73746d.png",
+    "static/media/Montserrat-ExtraBold.ttf": "/static/media/Montserrat-ExtraBold.6c8b198832c88c649faa.ttf",
+    "static/media/knBONE-token.png": "/static/media/knBONE-token.23534d8315e4d1b6e3d9.png",
+    "static/media/Montserrat-SemiBold.ttf": "/static/media/Montserrat-SemiBold.93b37a465fc4ec0d0415.ttf",
+    "static/media/BONUS-token.png": "/static/media/BONUS-token.6b45c416b5351c339b9e.png",
+    "static/media/BONE-token.png": "/static/media/BONE-token.7119b35c7291bc377880.png",
+    "static/media/ReadexPro-Regular.ttf": "/static/media/ReadexPro-Regular.e4e2032fef8435b342fe.ttf",
+    "static/media/GeneralSans-Regular.ttf": "/static/media/GeneralSans-Regular.6d91885b9c7fa66bdd05.ttf",
+    "static/media/GeneralSans-Medium.ttf": "/static/media/GeneralSans-Medium.c729d67488834af78b6a.ttf",
+    "static/media/logo.png": "/static/media/logo.4fa17ca5ca63323328cd.png",
+    "index.html": "/index.html",
+    "main.46961403.css.map": "/static/css/main.46961403.css.map",
+    "main.2e204a9d.js.map": "/static/js/main.2e204a9d.js.map",
+    "171.56f54811.chunk.js.map": "/static/js/171.56f54811.chunk.js.map",
+    "126.013249a0.chunk.js.map": "/static/js/126.013249a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46961403.css",
+    "static/js/main.2e204a9d.js"
+  ]
+}
