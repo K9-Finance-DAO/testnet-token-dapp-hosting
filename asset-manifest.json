@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/testnet-token-dapp-hosting/static/css/main.46961403.css",
-    "main.js": "/testnet-token-dapp-hosting/static/js/main.73ab24e7.js",
+    "main.js": "/testnet-token-dapp-hosting/static/js/main.7f8d07ee.js",
     "static/js/171.56f54811.chunk.js": "/testnet-token-dapp-hosting/static/js/171.56f54811.chunk.js",
     "static/js/126.013249a0.chunk.js": "/testnet-token-dapp-hosting/static/js/126.013249a0.chunk.js",
     "static/media/KNINE-token.png": "/testnet-token-dapp-hosting/static/media/KNINE-token.88597c0834909244b7a2.png",
@@ -17,12 +17,12 @@
     "static/media/logo.png": "/testnet-token-dapp-hosting/static/media/logo.4fa17ca5ca63323328cd.png",
     "index.html": "/testnet-token-dapp-hosting/index.html",
     "main.46961403.css.map": "/testnet-token-dapp-hosting/static/css/main.46961403.css.map",
-    "main.73ab24e7.js.map": "/testnet-token-dapp-hosting/static/js/main.73ab24e7.js.map",
+    "main.7f8d07ee.js.map": "/testnet-token-dapp-hosting/static/js/main.7f8d07ee.js.map",
     "171.56f54811.chunk.js.map": "/testnet-token-dapp-hosting/static/js/171.56f54811.chunk.js.map",
     "126.013249a0.chunk.js.map": "/testnet-token-dapp-hosting/static/js/126.013249a0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.46961403.css",
-    "static/js/main.73ab24e7.js"
+    "static/js/main.7f8d07ee.js"
   ]
 }
